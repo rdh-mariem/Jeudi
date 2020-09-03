@@ -1,0 +1,17 @@
+
+
+button
+
+{
+
+transform: translate(-50%,-50%);
+padding: 14px 28px;
+border-color: #e7e7e7;
+  background-color: white;
+  color: black;
+outline: none;
+font-size: 18px;
+text-transform: uppercase;
+cursor: pointer;
+}
+
